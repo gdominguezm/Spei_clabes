@@ -1,4 +1,5 @@
 package mx.com.baz.investigacion.cobranza.controllers.brms;
+///////
 
 import mx.com.baz.investigacion.cobranza.beans.brms.RespuestaProrrateo;
 import mx.com.baz.investigacion.cobranza.business.brms.ReglasProrrateoBO;
